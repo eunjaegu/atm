@@ -44,7 +44,7 @@
 
 ### 프로그램 실행
 
-![Image](https://github.com/user-attachments/assets/85aecd3f-2901-4b00-8418-053e10f088c3)
+![Image](https://github.com/user-attachments/assets/68102dd6-f6d8-4820-a4ae-b44ead794769)
 
 ## 🐛 에러 처리
 - 입력 값이 숫자가 아니거나 음수일 경우, 경고 메시지가 출력됩니다.
